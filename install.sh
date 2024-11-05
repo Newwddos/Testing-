@@ -8,7 +8,7 @@ cat <<EOL > .devcontainer/devcontainer.json
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/laila/laila.py",
+    "postStartCommand": "python3 /workspaces/Testing/laila.py",
     "customizations": {
         "vscode": {
             "settings": {
